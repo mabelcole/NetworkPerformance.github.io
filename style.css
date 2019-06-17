@@ -1,0 +1,13 @@
+@charset "utf-8";
+.container {
+	background-image: url(Performance.JPG);
+	height: 900px;
+	width: auto;
+}
+.nav {
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgba(0,0,0,1);
+	float: left;
+	height: 100px;
+	width: 100px;
+}
